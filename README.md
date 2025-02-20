@@ -1,2 +1,0 @@
-# Huddle
-Artic Research Center
