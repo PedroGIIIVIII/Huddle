@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{485122cf-6746-4a65-81ba-072328bf09de}">
+		<property name="assetPath">
+			<value>Aquatic Drone.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>23</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b02402ef-3600-407d-8c8a-1d2b3446a8a2}</destination>
+		</relationship>
+	</object>
+</objects>
